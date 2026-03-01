@@ -1,0 +1,2 @@
+2026-02-26 21:30:07 [INFO] Navigating to login page
+2026-02-26 21:30:14 [INFO] Logging in with user: tomsmith

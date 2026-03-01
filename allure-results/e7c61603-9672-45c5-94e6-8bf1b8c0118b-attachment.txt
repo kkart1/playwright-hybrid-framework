@@ -1,0 +1,2 @@
+2026-02-26 21:29:58 [INFO] Navigating to login page
+2026-02-26 21:30:02 [INFO] Logging in with user: wronguser

@@ -1,0 +1,272 @@
+2026-02-25 21:22:08 [INFO] Navigating to login page
+2026-02-25 21:22:13 [INFO] Entering username
+2026-02-25 21:22:13 [INFO] Entering password
+2026-02-25 21:22:13 [INFO] Clicking login button
+2026-02-25 21:22:26 [INFO] Navigating to login page
+2026-02-25 21:22:27 [INFO] Navigating to login page
+2026-02-25 21:22:31 [INFO] Entering username
+2026-02-25 21:22:31 [INFO] Entering password
+2026-02-25 21:22:31 [INFO] Clicking login button
+2026-02-25 21:22:32 [INFO] Entering username
+2026-02-25 21:22:32 [INFO] Entering password
+2026-02-25 21:22:32 [INFO] Clicking login button
+2026-02-26 13:46:32 [INFO] Navigating to login page
+2026-02-26 13:46:36 [INFO] Entering username
+2026-02-26 13:46:36 [INFO] Entering password
+2026-02-26 13:46:37 [INFO] Click login
+2026-02-26 13:46:47 [INFO] Navigating to login page
+2026-02-26 13:46:52 [INFO] Entering username
+2026-02-26 13:46:52 [INFO] Entering password
+2026-02-26 13:46:52 [INFO] Click login
+2026-02-26 13:46:54 [INFO] Navigating to login page
+2026-02-26 13:47:03 [INFO] Entering username
+2026-02-26 13:47:04 [INFO] Entering password
+2026-02-26 13:47:04 [INFO] Click login
+2026-02-26 13:48:40 [INFO] Navigating to login page
+2026-02-26 13:48:47 [INFO] Entering username
+2026-02-26 13:48:47 [INFO] Entering password
+2026-02-26 13:48:47 [INFO] Click login
+2026-02-26 13:48:57 [INFO] Navigating to login page
+2026-02-26 13:49:02 [INFO] Navigating to login page
+2026-02-26 13:49:05 [INFO] Entering username
+2026-02-26 13:49:05 [INFO] Entering password
+2026-02-26 13:49:05 [INFO] Click login
+2026-02-26 13:49:05 [INFO] Entering username
+2026-02-26 13:49:06 [INFO] Entering password
+2026-02-26 13:49:06 [INFO] Click login
+2026-02-26 13:52:32 [INFO] Environment loaded: undefined
+2026-02-26 13:52:35 [INFO] Environment loaded: undefined
+2026-02-26 13:52:39 [INFO] Navigating to login page
+2026-02-26 13:52:46 [INFO] Entering username
+2026-02-26 13:52:46 [INFO] Entering password
+2026-02-26 13:52:46 [INFO] Click login
+2026-02-26 13:52:47 [INFO] Environment loaded: undefined
+2026-02-26 13:52:54 [INFO] Navigating to login page
+2026-02-26 13:53:00 [INFO] Environment loaded: undefined
+2026-02-26 13:53:00 [INFO] Entering username
+2026-02-26 13:53:00 [INFO] Entering password
+2026-02-26 13:53:00 [INFO] Click login
+2026-02-26 13:53:00 [INFO] Navigating to login page
+2026-02-26 13:53:04 [INFO] Entering username
+2026-02-26 13:53:04 [INFO] Entering password
+2026-02-26 13:53:04 [INFO] Click login
+2026-02-26 13:53:47 [INFO] Environment loaded: undefined
+2026-02-26 13:53:51 [INFO] Environment loaded: undefined
+2026-02-26 13:53:54 [INFO] Navigating to login page
+2026-02-26 13:53:58 [INFO] Entering username
+2026-02-26 13:53:58 [INFO] Entering password
+2026-02-26 13:53:58 [INFO] Click login
+2026-02-26 13:54:02 [INFO] Environment loaded: undefined
+2026-02-26 13:54:07 [INFO] Navigating to login page
+2026-02-26 13:54:08 [INFO] Environment loaded: undefined
+2026-02-26 13:54:09 [INFO] Navigating to login page
+2026-02-26 13:54:12 [INFO] Entering username
+2026-02-26 13:54:12 [INFO] Entering password
+2026-02-26 13:54:12 [INFO] Click login
+2026-02-26 13:54:14 [INFO] Entering username
+2026-02-26 13:54:14 [INFO] Entering password
+2026-02-26 13:54:14 [INFO] Click login
+2026-02-26 13:56:56 [INFO] Environment loaded: DEV
+2026-02-26 13:57:00 [INFO] Environment loaded: DEV
+2026-02-26 13:57:03 [INFO] Navigating to login page
+2026-02-26 13:57:08 [INFO] Entering username
+2026-02-26 13:57:08 [INFO] Entering password
+2026-02-26 13:57:08 [INFO] Click login
+2026-02-26 13:57:11 [INFO] Environment loaded: DEV
+2026-02-26 13:57:19 [INFO] Navigating to login page
+2026-02-26 13:57:24 [INFO] Entering username
+2026-02-26 13:57:24 [INFO] Entering password
+2026-02-26 13:57:25 [INFO] Click login
+2026-02-26 13:57:28 [INFO] Environment loaded: DEV
+2026-02-26 13:57:29 [INFO] Navigating to login page
+2026-02-26 13:57:33 [INFO] Entering username
+2026-02-26 13:57:33 [INFO] Entering password
+2026-02-26 13:57:33 [INFO] Click login
+2026-02-26 14:02:21 [INFO] Environment loaded: QA
+2026-02-26 14:02:24 [INFO] Environment loaded: QA
+2026-02-26 14:02:27 [INFO] Navigating to login page
+2026-02-26 14:02:31 [INFO] Entering username
+2026-02-26 14:02:31 [INFO] Entering password
+2026-02-26 14:02:31 [INFO] Click login
+2026-02-26 14:02:36 [INFO] Environment loaded: QA
+2026-02-26 14:02:43 [INFO] Navigating to login page
+2026-02-26 14:02:45 [INFO] Environment loaded: QA
+2026-02-26 14:02:48 [INFO] Entering username
+2026-02-26 14:02:48 [INFO] Entering password
+2026-02-26 14:02:48 [INFO] Click login
+2026-02-26 14:02:51 [INFO] Navigating to login page
+2026-02-26 14:03:05 [INFO] Entering username
+2026-02-26 14:03:05 [INFO] Entering password
+2026-02-26 14:03:05 [INFO] Click login
+2026-02-26 14:32:42 [INFO] Environment loaded: QA
+2026-02-26 14:32:46 [INFO] Environment loaded: QA
+2026-02-26 14:32:46 [INFO] Environment loaded: QA
+2026-02-26 14:32:51 [INFO] Navigating to login page
+2026-02-26 14:32:51 [INFO] Navigating to login page
+2026-02-26 14:33:02 [INFO] Environment loaded: QA
+2026-02-26 14:33:03 [INFO] Environment loaded: QA
+2026-02-26 14:33:11 [INFO] Navigating to login page
+2026-02-26 14:33:13 [INFO] Navigating to login page
+2026-02-26 14:33:24 [INFO] Environment loaded: QA
+2026-02-26 14:33:25 [INFO] Environment loaded: QA
+2026-02-26 14:33:25 [INFO] Navigating to login page
+2026-02-26 14:33:26 [INFO] Navigating to login page
+2026-02-26 20:55:48 [INFO] Environment loaded: QA
+2026-02-26 20:55:51 [INFO] Environment loaded: QA
+2026-02-26 20:55:51 [INFO] Environment loaded: QA
+2026-02-26 20:55:56 [INFO] Navigating to login page
+2026-02-26 20:55:56 [INFO] Navigating to login page
+2026-02-26 20:56:06 [INFO] Environment loaded: QA
+2026-02-26 20:56:06 [INFO] Environment loaded: QA
+2026-02-26 20:56:15 [INFO] Navigating to login page
+2026-02-26 20:56:17 [INFO] Navigating to login page
+2026-02-26 20:56:29 [INFO] Environment loaded: QA
+2026-02-26 20:56:30 [INFO] Environment loaded: QA
+2026-02-26 20:56:31 [INFO] Navigating to login page
+2026-02-26 20:56:31 [INFO] Navigating to login page
+2026-02-26 21:06:28 [INFO] Environment loaded: QA
+2026-02-26 21:06:32 [INFO] Environment loaded: QA
+2026-02-26 21:06:32 [INFO] Environment loaded: QA
+2026-02-26 21:06:32 [INFO] Environment loaded: QA
+2026-02-26 21:06:32 [INFO] Environment loaded: QA
+2026-02-26 21:06:37 [INFO] Navigating to login page
+2026-02-26 21:06:37 [INFO] Navigating to login page
+2026-02-26 21:06:41 [INFO] Logging in with user: tomsmith
+2026-02-26 21:06:42 [INFO] Logging in with user: wronguser
+2026-02-26 21:06:43 [INFO] Navigating to login page
+2026-02-26 21:06:44 [INFO] Navigating to login page
+2026-02-26 21:06:48 [INFO] Logging in with user: tomsmith
+2026-02-26 21:06:49 [INFO] Logging in with user: wronguser
+2026-02-26 21:06:50 [INFO] Environment loaded: QA
+2026-02-26 21:06:50 [INFO] Environment loaded: QA
+2026-02-26 21:06:52 [INFO] Navigating to login page
+2026-02-26 21:06:52 [INFO] Navigating to login page
+2026-02-26 21:06:56 [INFO] Logging in with user: wronguser
+2026-02-26 21:06:56 [INFO] Logging in with user: tomsmith
+2026-02-26 21:10:27 [INFO] Environment loaded: QA
+2026-02-26 21:10:31 [INFO] Environment loaded: QA
+2026-02-26 21:10:31 [INFO] Environment loaded: QA
+2026-02-26 21:10:31 [INFO] Environment loaded: QA
+2026-02-26 21:10:31 [INFO] Environment loaded: QA
+2026-02-26 21:10:35 [INFO] Navigating to login page
+2026-02-26 21:10:35 [INFO] Navigating to login page
+2026-02-26 21:10:36 [INFO] Navigating to login page
+2026-02-26 21:10:37 [INFO] Navigating to login page
+2026-02-26 21:10:40 [INFO] Logging in with user: tomsmith
+2026-02-26 21:10:41 [INFO] Logging in with user: wronguser
+2026-02-26 21:10:46 [INFO] Environment loaded: QA
+2026-02-26 21:10:46 [INFO] Environment loaded: QA
+2026-02-26 21:10:47 [INFO] Navigating to login page
+2026-02-26 21:10:47 [INFO] Navigating to login page
+2026-02-26 21:10:47 [INFO] Logging in with user: wronguser
+2026-02-26 21:10:48 [INFO] Logging in with user: tomsmith
+2026-02-26 21:10:51 [INFO] Logging in with user: wronguser
+2026-02-26 21:10:51 [INFO] Logging in with user: tomsmith
+2026-02-26 21:29:21 [INFO] Environment loaded: QA
+2026-02-26 21:29:30 [INFO] Environment loaded: QA
+2026-02-26 21:29:31 [INFO] Environment loaded: QA
+2026-02-26 21:29:32 [INFO] Navigating to login page
+2026-02-26 21:29:33 [INFO] Navigating to login page
+2026-02-26 21:29:44 [INFO] Logging in with user: tomsmith
+2026-02-26 21:29:45 [INFO] Logging in with user: wronguser
+2026-02-26 21:29:51 [INFO] Environment loaded: QA
+2026-02-26 21:29:53 [INFO] Environment loaded: QA
+2026-02-26 21:29:56 [INFO] Navigating to login page
+2026-02-26 21:29:58 [INFO] Navigating to login page
+2026-02-26 21:30:00 [INFO] Logging in with user: tomsmith
+2026-02-26 21:30:02 [INFO] Logging in with user: wronguser
+2026-02-26 21:30:03 [INFO] Environment loaded: QA
+2026-02-26 21:30:03 [INFO] Navigating to login page
+2026-02-26 21:30:06 [INFO] Environment loaded: QA
+2026-02-26 21:30:07 [INFO] Navigating to login page
+2026-02-26 21:30:08 [INFO] Logging in with user: wronguser
+2026-02-26 21:30:14 [INFO] Logging in with user: tomsmith
+2026-03-01 15:38:24 [INFO] Environment loaded: QA
+2026-03-01 15:38:46 [INFO] Environment loaded: QA
+2026-03-01 15:38:46 [INFO] Environment loaded: QA
+2026-03-01 15:38:51 [INFO] Navigating to login page
+2026-03-01 15:38:54 [INFO] Navigating to login page
+2026-03-01 15:38:56 [INFO] Logging in with user: tomsmith
+2026-03-01 15:39:00 [INFO] Logging in with user: wronguser
+2026-03-01 15:39:04 [INFO] Environment loaded: QA
+2026-03-01 15:39:12 [INFO] Navigating to login page
+2026-03-01 15:39:14 [INFO] Environment loaded: QA
+2026-03-01 15:39:17 [INFO] Logging in with user: tomsmith
+2026-03-01 15:39:19 [INFO] Navigating to login page
+2026-03-01 15:39:24 [INFO] Logging in with user: wronguser
+2026-03-01 15:39:25 [INFO] Environment loaded: QA
+2026-03-01 15:39:25 [INFO] Environment loaded: QA
+2026-03-01 15:39:26 [INFO] Navigating to login page
+2026-03-01 15:39:27 [INFO] Navigating to login page
+2026-03-01 15:39:31 [INFO] Logging in with user: wronguser
+2026-03-01 15:39:31 [INFO] Logging in with user: tomsmith
+2026-03-01 15:52:23 [INFO] Environment loaded: QA
+2026-03-01 15:52:41 [INFO] Environment loaded: QA
+2026-03-01 15:52:41 [INFO] Environment loaded: QA
+2026-03-01 15:52:41 [INFO] Environment loaded: QA
+2026-03-01 15:53:47 [INFO] Environment loaded: QA
+2026-03-01 15:53:57 [INFO] Environment loaded: QA
+2026-03-01 15:53:57 [INFO] Environment loaded: QA
+2026-03-01 15:54:02 [INFO] Navigating to login page
+2026-03-01 15:54:02 [INFO] Navigating to login page
+2026-03-01 15:54:04 [INFO] Environment loaded: QA
+2026-03-01 15:54:06 [INFO] Logging in with user: wronguser
+2026-03-01 15:54:06 [INFO] Logging in with user: tomsmith
+2026-03-01 15:54:12 [INFO] Environment loaded: QA
+2026-03-01 15:54:18 [INFO] Environment loaded: QA
+2026-03-01 15:54:20 [INFO] Navigating to login page
+2026-03-01 15:54:20 [INFO] Navigating to login page
+2026-03-01 15:54:24 [INFO] Logging in with user: tomsmith
+2026-03-01 15:54:26 [INFO] Logging in with user: wronguser
+2026-03-01 15:54:26 [INFO] Environment loaded: QA
+2026-03-01 15:54:35 [INFO] Environment loaded: QA
+2026-03-01 15:54:37 [INFO] Navigating to login page
+2026-03-01 15:54:38 [INFO] Environment loaded: QA
+2026-03-01 15:54:39 [INFO] Navigating to login page
+2026-03-01 15:54:39 [INFO] Environment loaded: QA
+2026-03-01 15:54:43 [INFO] Logging in with user: tomsmith
+2026-03-01 15:54:43 [INFO] Logging in with user: wronguser
+2026-03-01 15:57:00 [INFO] Environment loaded: QA
+2026-03-01 15:57:09 [INFO] Environment loaded: QA
+2026-03-01 16:00:34 [INFO] Environment loaded: QA
+2026-03-01 16:00:48 [INFO] Environment loaded: QA
+2026-03-01 16:01:51 [INFO] Environment loaded: QA
+2026-03-01 16:02:00 [INFO] Environment loaded: QA
+2026-03-01 16:09:52 [INFO] Environment loaded: QA
+2026-03-01 16:10:03 [INFO] Environment loaded: QA
+2026-03-01 16:10:03 [INFO] Environment loaded: QA
+2026-03-01 16:10:08 [INFO] Navigating to login page
+2026-03-01 16:10:08 [INFO] Navigating to login page
+2026-03-01 16:10:10 [INFO] Environment loaded: QA
+2026-03-01 16:10:12 [INFO] Logging in with user: wronguser
+2026-03-01 16:10:12 [INFO] Logging in with user: tomsmith
+2026-03-01 22:18:21 [INFO] Environment loaded: QA
+2026-03-01 22:18:36 [INFO] Environment loaded: QA
+2026-03-01 22:18:36 [INFO] Environment loaded: QA
+2026-03-01 22:18:41 [INFO] Navigating to login page
+2026-03-01 22:18:41 [INFO] Navigating to login page
+2026-03-01 22:18:44 [INFO] Environment loaded: QA
+2026-03-01 22:18:45 [INFO] Logging in with user: wronguser
+2026-03-01 22:18:45 [INFO] Logging in with user: tomsmith
+2026-03-01 22:19:18 [INFO] Environment loaded: QA
+2026-03-01 22:19:38 [INFO] Environment loaded: QA
+2026-03-01 22:28:37 [INFO] Environment loaded: QA
+2026-03-01 22:28:48 [INFO] Environment loaded: QA
+2026-03-01 22:28:49 [INFO] Navigating to login page
+2026-03-01 22:34:59 [INFO] Environment loaded: QA
+2026-03-01 22:35:09 [INFO] Environment loaded: QA
+2026-03-01 22:37:29 [INFO] Environment loaded: QA
+2026-03-01 22:37:44 [INFO] Environment loaded: QA
+2026-03-01 22:37:44 [INFO] Environment loaded: QA
+2026-03-01 22:37:49 [INFO] Environment loaded: QA
+2026-03-01 22:37:49 [INFO] Navigating to login page
+2026-03-01 22:37:49 [INFO] Environment loaded: QA
+2026-03-01 22:37:50 [INFO] Navigating to login page
+2026-03-01 22:37:53 [INFO] Logging in with user: tomsmith
+2026-03-01 22:37:53 [INFO] Logging in with user: wronguser
+2026-03-01 22:48:20 [INFO] Environment loaded: QA
+2026-03-01 22:51:57 [INFO] Environment loaded: QA
+2026-03-01 22:56:49 [INFO] Environment loaded: QA
+2026-03-01 22:58:57 [INFO] Environment loaded: QA
+2026-03-01 23:02:22 [INFO] Environment loaded: QA
+2026-03-01 23:09:34 [INFO] Environment loaded: QA
