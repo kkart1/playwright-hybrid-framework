@@ -5,53 +5,62 @@ import path from 'path';
 
 async function globalSetup(_: FullConfig) {
 
-  // Ensure auth folder exists
   const authDir = path.resolve('./auth');
+
+  // ensure auth folder exists
   if (!fs.existsSync(authDir)) {
-    fs.mkdirSync(authDir);
+    fs.mkdirSync(authDir, { recursive: true });
   }
 
   const browser = await chromium.launch({
     headless: process.env.CI ? true : false
   });
 
-  // ADMIN session
+  console.log("Creating authentication state...");
+
+  // ---------- ADMIN ----------
   const adminContext = await browser.newContext();
   const adminPage = await adminContext.newPage();
 
   await adminPage.goto(`${config.baseURL}/login`);
+
   await adminPage.fill('#username', config.username);
   await adminPage.fill('#password', config.password);
+
   await adminPage.click('button[type="submit"]');
 
-  await adminPage.waitForLoadState('networkidle');
+  // VERY IMPORTANT → verify login success
+  await adminPage.waitForURL('**/secure');
 
   await adminContext.storageState({
-    path: 'auth/admin.json',
-    
+    path: path.join(authDir, 'admin.json'),
   });
 
   await adminContext.close();
 
 
-  // USER session (same creds for demo)
+  // ---------- USER ----------
   const userContext = await browser.newContext();
   const userPage = await userContext.newPage();
 
   await userPage.goto(`${config.baseURL}/login`);
+
   await userPage.fill('#username', config.username);
   await userPage.fill('#password', config.password);
+
   await userPage.click('button[type="submit"]');
 
-  await userPage.waitForLoadState('networkidle');
+  await userPage.waitForURL('**/secure');
 
   await userContext.storageState({
-    path: 'auth/user.json',
+    path: path.join(authDir, 'user.json'),
   });
 
   await userContext.close();
 
   await browser.close();
+
+  console.log("Auth files created successfully.");
 
 }
 
