@@ -41,11 +41,7 @@ export default defineConfig({
   ],
 
   // Run authentication setup before tests
-  webServer: {
-    command: 'npm run start',
-    url: 'http://localhost:3000',
-    reuseExistingServer: !process.env.CI,
-  },
+  
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   reporter: [
   ['html'],
