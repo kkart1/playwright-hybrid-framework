@@ -16,3 +16,4 @@ test('@api Get users API test', async () => {
   console.log(body);
 
 });
+export { expect };

@@ -6,9 +6,9 @@ import fs from 'fs';
   const context = await browser.newContext();
   const page = await context.newPage();
 
-  await page.goto('https://your-app-url.com/login'); // Replace with your app's login URL
-  await page.fill('#username', 'your-username');     // Replace with actual username selector and value
-  await page.fill('#password', 'your-password');     // Replace with actual password selector and value
+  await page.goto('https://the-internet.herokuapp.com'); // Replace with your app's login URL
+  await page.fill('#username', 'tomsmith');     // Replace with actual username selector and value
+  await page.fill('#password', 'SuperSecretPassword!');     // Replace with actual password selector and value
   await page.click('#login');                        // Replace with your login button's selector
 
   await page.waitForSelector('selector-after-login'); // Update with a selector visible post-login
