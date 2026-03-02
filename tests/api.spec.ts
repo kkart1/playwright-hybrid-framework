@@ -1,21 +1,14 @@
-import { request, APIRequestContext } from '@playwright/test';
+import { test, expect } from '@playwright/test';
+import { UserAPI } from '../api/UserAPI';
 
-export class UserAPI {
+test('@api Get users API test', async () => {
 
-  private apiContext!: APIRequestContext;
+  const api = new UserAPI();
 
-  async init() {
+  await api.init();
 
-    this.apiContext = await request.newContext({
-      baseURL: 'https://jsonplaceholder.typicode.com'
-    });
+  const response = await api.getUsers();
 
-  }
+  expect(response.status()).toBe(200);
 
-  async getUsers() {
-
-    return await this.apiContext.get('/users');
-
-  }
-
-}
+});
