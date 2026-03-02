@@ -16,9 +16,7 @@ export class UserAPI {
   }
 
   async getUsers() {
-
     return await this.apiContext.get('/users');
-
   }
 
 }

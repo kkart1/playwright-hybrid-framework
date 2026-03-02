@@ -28,6 +28,7 @@ async function globalSetup(_: FullConfig) {
 
   await adminContext.storageState({
     path: 'auth/admin.json',
+    
   });
 
   await adminContext.close();
