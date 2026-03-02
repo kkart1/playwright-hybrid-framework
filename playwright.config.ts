@@ -29,11 +29,10 @@ export default defineConfig({
 ],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
-  trace: 'on-first-retry',
-  //storageState: 'auth/storageState.json',
-
-  // Run headless in CI, headed locally
   headless: process.env.CI ? true : false,
+  trace: 'on-first-retry',
+  screenshot: 'only-on-failure',
+  video: 'retain-on-failure',
 },
 
   /* Configure projects for major browsers */
